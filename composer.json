@@ -1,5 +1,6 @@
 {
-    "name": "illuminate/remote",
+    "name": "lenzlueers/remote",
+	"version": "4.2-patch",
     "license": "MIT",
     "authors": [
         {
