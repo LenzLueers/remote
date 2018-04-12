@@ -1,5 +1,5 @@
 {
-    "name": "lenzlueers/remote",
+    "name": "illuminate/remote",
 	"version": "4.2-patch",
     "license": "MIT",
     "authors": [
@@ -29,7 +29,7 @@
     "target-dir": "Illuminate/Remote",
     "extra": {
         "branch-alias": {
-            "dev-master": "4.2-dev"
+            "dev-master": "4.2-patch"
         }
     },
     "minimum-stability": "dev"
